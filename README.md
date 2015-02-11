@@ -1,4 +1,4 @@
-# raw_data
+# ALH_data
 This is where additional data about the Viral Texts project lives.
 
 The .csv file here is the top 50,000 lines of the dataset from 1836 to 1861. For more detailed exploration,
